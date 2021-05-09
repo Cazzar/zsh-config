@@ -1,0 +1,2 @@
+. ./customization.zsh
+. ./keybindings.zsh
