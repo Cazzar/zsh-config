@@ -4,5 +4,5 @@ local FILE
 FILE=${1:-.env}
 
 set -o allexport
-source .env
+source "$FILE"
 set +o allexport
